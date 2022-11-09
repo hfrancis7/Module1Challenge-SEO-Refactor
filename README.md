@@ -4,7 +4,7 @@ The code originally provided was for a website promoting a business called "Hori
 The task was to refactor the code so that it would comply with accessability standards.
 
 ## Live Link
-(TBA)
+https://hfrancis7.github.io/Module1Challenge-SEO-Refactor/
 
 ## Screenshots
 (TBA)
