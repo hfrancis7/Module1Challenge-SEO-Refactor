@@ -79,6 +79,24 @@ for the alt property in the HTML image tag*/
     margin-left: 20px;
 }
 
+.content-sect {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-sect img {
+    max-height: 200px;
+}
+
+.content-sect h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,24 +122,6 @@ for the alt property in the HTML image tag*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.content-sect {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-sect img {
-    max-height: 200px;
-}
-
-.content-sect h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
