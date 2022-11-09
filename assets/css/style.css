@@ -50,7 +50,10 @@ p {
     font-size: 16px;
 }
 
-/*Unsure if image needs alt text to comply with accessability standards? */
+/*According to what I've found online 
+in places like StackOverflow, people use 
+the "title" attribute in the html to subsitute 
+for the alt property in the HTML image tag*/
 .hero {
     height: 800px;
     width: 100%;
