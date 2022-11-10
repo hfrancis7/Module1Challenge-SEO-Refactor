@@ -11,7 +11,14 @@ The website describes different ways search engine optimization can affect a bus
 https://hfrancis7.github.io/Module1Challenge-SEO-Refactor/
 
 ## Screenshots
-(TBA)
+Top of Horiseon Page, showing Navigation Bar:
+
+![Alt text](/assets/images/Screenshot_Horiseon_top.png)
+
+Information of Horiseon Page, showing the different sections:
+
+![Alt text](/assets/images/Screenshot_Horiseon_bottom.png)
+
 
 ## User Story
 ```
